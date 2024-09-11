@@ -1,5 +1,14 @@
-## Hi there 👋
 
+## 👋 Hi there! I'm Mukund Sai Rathod
+### 🚀 About Me
+>I'm a passionate Software Engineer. With a bachelor's degree in Computer Science Engineering, I thrive on creating efficient solutions and building innovative applications. My journey in tech has led me through a variety of exciting projects and technologies.
+
+### 🛠️ Technologies 
+> Languages: Python, Java <br>
+> Frameworks: React, Node.js
+ 
+### 🌟 Current Focus
+> I'm currently working on Web Applications, focusing on Front End Development. I'm excited about exploring Emerging Technologies and how they can be applied to solve real-world problems.
 <!--
 **MukundSaiRathod/MukundSaiRathod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
